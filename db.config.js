@@ -1,9 +1,9 @@
 module.exports = {
-    HOST: "dpg-ci829r98g3n3vm2rl8dg-a",
+    HOST: "dpg-cijd1615rnut2sdatsp0-a",
     USER: "grady",
     PORT: 5432,
-    PASSWORD: "Dt8U2FQPvB2l3Gh0VU8qEcsFJtvtajCU",
-    DB: "temkowidget",
+    PASSWORD: "RxtJBPjBSOpiP4j6IkC8hY2FdKvA0ldy",
+    DB: "temkodb",
     dialect: "postgres",
     pool: {
         max: 5,
